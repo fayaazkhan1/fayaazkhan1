@@ -16,6 +16,7 @@
 ### 🔐 About Me
 
 - 🛡️ Transitioning from **Software Engineering** into **Cybersecurity**
+- 🎓 Google Cybersecurity Professional Certificate (Coursera) — [verify credential](https://coursera.org/verify/professional-cert/J4S6X8PDBPZH)
 - 🎯 Focused on **Penetration Testing** and **Blue Team** defense
 - 🚩 Actively playing **CTFs** to sharpen offensive & defensive skills
 - 📚 Working through **Google Cybersecurity Certificate** projects & labs
