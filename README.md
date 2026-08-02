@@ -17,7 +17,7 @@
       alt="View cybersecurity portfolio"
     />
   </a>
-  <a href="https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/resume/Fayaaz_Khan_SOC_Analyst_Resume.pdf">
+  <a href="https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/resume/Fayaaz_Yasin_Khan_SOC_Analyst_Resume.docx.pdf">
     <img
       src="https://img.shields.io/badge/Resume-View_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
       alt="View Fayaaz Khan's resume"
