@@ -6,10 +6,22 @@
 
 <p align="center">
   <a href="mailto:fayaazkhan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fayaazkhan1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fayaaz Khan" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Fayaaz Khan"
+    />
   </a>
   <a href="https://github.com/fayaazkhan1/cybersecurity-portfolio">
-    <img src="https://img.shields.io/badge/View-Cybersecurity_Portfolio-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Cybersecurity-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View cybersecurity portfolio"
+    />
+  </a>
+  <a href="https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/resume/Fayaaz_Khan_SOC_Analyst_Resume.pdf">
+    <img
+      src="https://img.shields.io/badge/Resume-View_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="View Fayaaz Khan's resume"
+    />
   </a>
 </p>
 
