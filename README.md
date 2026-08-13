@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am transitioning from a software engineering background into cybersecurity and building practical experience in Security Operations, Blue Team analysis, detection engineering, phishing investigation, threat intelligence, and incident documentation.
+I am transitioning from a software engineering background into cybersecurity and building practical experience in Security Operations, Blue Team analysis, detection engineering, phishing investigation, email authentication, threat intelligence, and incident documentation.
 
 My projects are designed around complete analyst workflows rather than isolated tool demos: collect evidence, validate it, investigate suspicious activity, automate repeatable tasks, document limitations, and communicate a defensible conclusion.
 
@@ -41,19 +41,19 @@ Built an isolated Active Directory environment using Windows Server, Ubuntu, Vir
 
 [View Project](https://github.com/fayaazkhan1/cybersecurity-portfolio/tree/main/projects/active-directory-wazuh-detection-lab) · [Read Investigation](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/active-directory-wazuh-detection-lab/reports/password-spray-investigation.md)
 
-### 2. Phishing Email Investigation & IOC Enrichment
+### 2. Phishing & Suspicious-Email Investigation
 
-Analyzed a phishing research sample, sanitized evidence, extracted and compared indicators, enriched a suspicious sender domain through the VirusTotal API, built an explainable triage model, and documented a final analyst verdict.
+Completed two contrasting email investigations. Case 001 used IOC analysis, VirusTotal enrichment, Python automation, and explainable triage to escalate a malicious phishing sample. Case 002 used full headers, SPF/DKIM/DMARC alignment, mail-route reconstruction, and domain validation to clear a suspicious-looking Spam message as likely legitimate.
 
-**Skills:** Python · Phishing Analysis · IOC Enrichment · VirusTotal API · Threat Intelligence · MITRE ATT&CK `T1566`
+**Skills:** Python · Phishing Analysis · IOC Enrichment · VirusTotal API · SPF/DKIM/DMARC · Email Header Analysis · Threat Intelligence · False-Positive Reduction · MITRE ATT&CK `T1566`
 
-[View Project](https://github.com/fayaazkhan1/cybersecurity-portfolio/tree/main/projects/phishing-email-ioc-analysis) · [Read Case 001](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/phishing-email-ioc-analysis/reports/case-001-investigation.md)
+[View Project](https://github.com/fayaazkhan1/cybersecurity-portfolio/tree/main/projects/phishing-email-ioc-analysis) · [Case 001](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/phishing-email-ioc-analysis/reports/case-001-investigation.md) · [Case 002](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/phishing-email-ioc-analysis/reports/case-002-investigation.md)
 
 ---
 
 ## Technical Focus
 
-**Security Operations:** SIEM monitoring, alert triage, Windows event analysis, phishing investigation, IOC enrichment, detection validation, incident documentation, MITRE ATT&CK mapping
+**Security Operations:** SIEM monitoring, alert triage, Windows event analysis, phishing and suspicious-email investigation, SPF/DKIM/DMARC analysis, mail-route analysis, IOC enrichment, detection validation, incident documentation, MITRE ATT&CK mapping, false-positive reduction
 
 **Systems & Tools:** Wazuh, Windows Server, Active Directory, Ubuntu, VirtualBox, VirusTotal API, Wireshark, Nmap, Git/GitHub
 
