@@ -20,13 +20,13 @@
 
 ## About Me
 
-I am transitioning from a software engineering background into cybersecurity and building practical experience in Security Operations, Blue Team analysis, detection engineering, phishing investigation, email authentication, threat intelligence, and incident documentation.
+I am transitioning from a software engineering background into cybersecurity and building practical experience in Security Operations, Blue Team analysis, detection engineering, phishing investigation, cloud security, threat intelligence, and incident documentation.
 
-My projects are designed around complete analyst workflows rather than isolated tool demos: collect evidence, validate it, investigate suspicious activity, automate repeatable tasks, document limitations, and communicate a defensible conclusion.
+My projects are designed around complete analyst workflows rather than isolated tool demos: collect evidence, validate it, investigate suspicious activity or insecure configuration, remediate where appropriate, automate repeatable tasks, document limitations, and communicate a defensible conclusion.
 
 - Google Cybersecurity Professional Certificate holder
 - Preparing for CompTIA Security+
-- Building hands-on SOC and Blue Team portfolio projects
+- Building hands-on SOC, Blue Team, and cloud-security portfolio projects
 - Based in Houston, Texas
 
 ---
@@ -49,15 +49,25 @@ Completed two contrasting email investigations. Case 001 used IOC analysis, Viru
 
 [View Project](https://github.com/fayaazkhan1/cybersecurity-portfolio/tree/main/projects/phishing-email-ioc-analysis) · [Case 001](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/phishing-email-ioc-analysis/reports/case-001-investigation.md) · [Case 002](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/phishing-email-ioc-analysis/reports/case-002-investigation.md)
 
+### 3. AWS Cloud Security Misconfiguration Assessment & Remediation
+
+Built a dedicated AWS lab to assess IAM and Amazon S3 security. Deliberately introduced excessive IAM permissions, evaluated a proposed public S3 resource policy without deploying it, remediated access to least privilege, enabled S3 hardening controls, and validated the changes with AWS IAM Access Analyzer and Prowler.
+
+**Skills:** AWS IAM · Amazon S3 · IAM Access Analyzer · Prowler · Least Privilege · Cloud Misconfiguration Assessment · Remediation Validation · AWS CLI
+
+[View Project](https://github.com/fayaazkhan1/cybersecurity-portfolio/tree/main/projects/aws-cloud-security-assessment) · [Read Assessment](https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/projects/aws-cloud-security-assessment/reports/cloud-security-assessment.md)
+
 ---
 
 ## Technical Focus
 
 **Security Operations:** SIEM monitoring, alert triage, Windows event analysis, phishing and suspicious-email investigation, SPF/DKIM/DMARC analysis, mail-route analysis, IOC enrichment, detection validation, incident documentation, MITRE ATT&CK mapping, false-positive reduction
 
-**Systems & Tools:** Wazuh, Windows Server, Active Directory, Ubuntu, VirtualBox, VirusTotal API, Wireshark, Nmap, Git/GitHub
+**Cloud Security:** AWS IAM permission analysis, least-privilege policy design, Amazon S3 access controls, S3 Block Public Access, S3 versioning, IAM Access Analyzer, Prowler, cloud misconfiguration remediation
 
-**Scripting:** Python, Bash, PowerShell fundamentals, regular expressions, JSON processing, API integration
+**Systems & Tools:** Wazuh, AWS CLI, AWS IAM Access Analyzer, Amazon S3, Prowler, Windows Server, Active Directory, Ubuntu, VirtualBox, VirusTotal API, Wireshark, Nmap, Git/GitHub
+
+**Scripting:** Python, Bash, PowerShell fundamentals, regular expressions, JSON processing, API integration, security-report sanitization
 
 ---
 
@@ -73,7 +83,7 @@ Currently preparing for the exam after completing a full Security+ training cour
 
 ## Opportunities
 
-I am seeking entry-level opportunities including SOC Analyst, Junior Cybersecurity Analyst, Security Operations Analyst, Cybersecurity Support Analyst, Junior Incident Response Analyst, and Information Security Analyst roles.
+I am seeking entry-level opportunities including SOC Analyst, Junior Cybersecurity Analyst, Security Operations Analyst, Cybersecurity Support Analyst, Junior Incident Response Analyst, Information Security Analyst, and Junior Cloud Security Analyst roles.
 
 **Location:** Houston, Texas  
 **Work preference:** Local, hybrid, or remote  
