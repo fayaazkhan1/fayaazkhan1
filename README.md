@@ -24,8 +24,8 @@ I am transitioning from a software engineering background into cybersecurity and
 
 My projects are designed around complete analyst workflows rather than isolated tool demos: collect evidence, validate it, investigate suspicious activity or insecure configuration, remediate where appropriate, automate repeatable tasks, document limitations, and communicate a defensible conclusion.
 
+- Passed the **CompTIA Security+ (SY0-701)** exam in August 2026; official credential issuance is pending
 - Google Cybersecurity Professional Certificate holder
-- Preparing for CompTIA Security+
 - Building hands-on SOC, Blue Team, and cloud-security portfolio projects
 - Based in Houston, Texas
 
@@ -73,11 +73,11 @@ Built a dedicated AWS lab to assess IAM and Amazon S3 security. Deliberately int
 
 ## Certifications
 
+**CompTIA Security+ (SY0-701)**  
+Exam passed in August 2026. Official CompTIA credential/badge issuance is pending; verification will be added once available.
+
 **Google Cybersecurity Professional Certificate**  
 [Verify credential](https://coursera.org/verify/professional-cert/J4S6X8PDBPZH)
-
-**CompTIA Security+**  
-Currently preparing for the exam after completing a full Security+ training course.
 
 ---
 
