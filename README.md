@@ -11,7 +11,7 @@
   <a href="https://github.com/fayaazkhan1/cybersecurity-portfolio">
     <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View cybersecurity portfolio" />
   </a>
-  <a href="https://github.com/fayaazkhan1/cybersecurity-portfolio/blob/main/resume/Fayaaz_Yasin_Khan_SOC_Analyst_Resume.pdf">
+  <a href="https://drive.google.com/file/d/1pChebI_sjAZs1X121v99-LiwYlEYlWL_/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" />
   </a>
 </p>
