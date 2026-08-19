@@ -74,7 +74,8 @@ Built a dedicated AWS lab to assess IAM and Amazon S3 security. Deliberately int
 ## Certifications
 
 **CompTIA Security+ (SY0-701)**  
-Certified August 2026. Official CompTIA certificate and digital badge issued. Certification valid through August 2029.
+Certified August 2026. Official CompTIA certificate and digital badge issued. Certification valid through August 2029.  
+[Verify credential](http://verify.CompTIA.org) · Verification code: `e92653fdfa4149aaad3dae3cef4471f9`
 
 **Google Cybersecurity Professional Certificate**  
 [Verify credential](https://coursera.org/verify/professional-cert/J4S6X8PDBPZH)
